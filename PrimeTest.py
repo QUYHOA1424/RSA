@@ -19,6 +19,7 @@ def Fermat(p,x):
 			return False
 	return True
 
+
 # Miller–Rabin primality test
 # Q(a,p,m,s) = 1 nếu p trải qua Miller-Rabin cơ sở a
 def Q(a, p, m, s):

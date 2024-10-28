@@ -16,6 +16,7 @@ def powMod(a, b, m):
 			r%= m
 	return r
 
+
 def GCD(a, b):
 	if b == 0:
 		return a

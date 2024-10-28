@@ -16,6 +16,7 @@ Bài tập lớn - Số học thuật toán
     - Tài nguyên sử dụng: Tính toán trên số lớn có sẵn của python
     - Nội dung chính: Mã hóa văn bản (Tiếng Việt có dấu) với RSA và khóa tự sinh (1024 bits)
 
+
 ## 2. Giới thiệu chung cấu trúc bài tâp lớn
 
   - ***MyMath.py***:  Chứa hàm toán học

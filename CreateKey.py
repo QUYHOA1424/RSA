@@ -6,6 +6,7 @@ def getPQ(file):
 	q = int(fi.readline())
 	return p, q
 
+
 def getE(phi):
 	e = 65537
 	while True:

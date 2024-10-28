@@ -17,6 +17,7 @@ def getCiphertext(file): # file Ciphertext
 	fi.close()
 	return C
 
+
 def decode(n, d, C, base, fileOut): # file PlanintextDecode
 	fo = open(fileOut,"w")
 	P = ""

@@ -1,6 +1,7 @@
 import MyMath
 import MyBase
 
+
 def getPublicKey (file) :
 	fi = open(file,"r")
 	n = int(fi.readline())

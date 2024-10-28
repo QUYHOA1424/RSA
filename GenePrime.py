@@ -1,6 +1,7 @@
 import random
 import PrimeTest
 
+
 def Random (b):
 	a = random.getrandbits(b)
 	a = a | (1 << (b-1))

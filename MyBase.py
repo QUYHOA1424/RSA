@@ -18,6 +18,7 @@ def toBase(a, base):
 	r = r[::-1]
 	return r;
 
+
 def toInt(r, base):
 	a = 0;
 	for i in r:

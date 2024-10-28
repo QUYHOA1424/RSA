@@ -25,6 +25,7 @@ technique, providing incredibly useful help for the users of the site. By master
 practicing most programming exercises in this book, a reader can easily solve at least 500
 problems in the UVa Online Judge, which will place them in the top 400-500 amongst
 ≈100000 UVa OJ users.
+
 It’s clear that the book “Competitive Programming: Increasing the Lower Bound of
 Programming Contests” is suitable for programmers who want to improve their ranks in
 upcoming ICPC regionals and IOIs. The two authors have gone through these contests
