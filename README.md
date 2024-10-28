@@ -1,16 +1,18 @@
-Bài tập lớn - Số học thuật toán
+Bài tập lớn - Mật mã và An ninh mạng
 =============================
-# Mã hóa RSA
+# RSA
 
 ## 1. Giới thiệu chung
 
   - **Tác giả**:
-    - Sinh viên: *Nguyễn Tú Anh*
-    - MSV: A29888
-    - Trường: Đại học Thăng Long
+    - TRẦN ĐÌNH QUÝ 2033089
+    - DƯƠNG HOÀNG KHÔI 2211672
+    - PHẠM HỒNG MY SA 2112173
+    - LÊ THÁI HÙNG 2211331
+    - Trường: Đại học Bách Khoa
   - **Môn học và đề tài**:
-    - Môn học: Số học thuật toán
-    - Giảng viên: GS. Hà Huy Khoái
+    - Môn học: Mật mã và An ninh mạng 
+    - Giảng viên: Thầy NGUYỄN CAO ĐẠT
     - Chủ đề: Mã hóa RSA
     - Ngôn ngữ lập trình: Python
     - Tài nguyên sử dụng: Tính toán trên số lớn có sẵn của python
